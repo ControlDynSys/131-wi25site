@@ -4,7 +4,7 @@ days:
   - topic: Decompositions & Basic Realization Theory (Max)
     date: 2025-02-17
     description: ([Slides](./assets/lec/SLAM_Presentation___106B_2023.pdf)) (Boardwork) (Video) 
-  - topic: State Feedback (Max)
+  - topic: State & Output Feedback (Max)
     date: 2025-02-19
     description:  ([Slides](./assets/lec/SLAM_Presentation___106B_2023.pdf)) (Boardwork) (Video)
 ---
