@@ -3,12 +3,12 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Course website for EECS 106/206B Spring 2022
+    Course website for CDS 131 Winter 2025
 ---
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
-# EECS C106B/206B | Robotic Manipulation and Interaction
+# CDS 131 | Linear Systems Theory
 {: .mb-2 }
-Spring 2023 | Instructor: Professor Shankar Sastry
+Winter 2025 | Instructor: Professor John Doyle
 {: .mb-0 .fs-6 .text-grey-dk-200 }
 
 <hr>
@@ -22,7 +22,7 @@ Spring 2023 | Instructor: Professor Shankar Sastry
 
 # Course Calendar
 
-#### All lecture videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1522763/external_tools/78985)
+<!-- #### All lecture videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1522763/external_tools/78985) -->
 
 {% for module in site.modules %}
 {{ module }}

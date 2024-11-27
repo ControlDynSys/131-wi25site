@@ -1,7 +1,7 @@
 ---
-name: Shankar Sastry
+name: John Doyle
 role: Instructor
-email: sastry@eecs.
+email: doyle@
 photo: assets/staff_pics/sastry.jpg
 ---
 Instructor

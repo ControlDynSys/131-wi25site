@@ -1,15 +1,14 @@
 ---
-title: Week 8 - Contacts and Grasping
+title: Week 8 - Optimal Control
 days:
-  - topic: Types and models of contact, modeling grasp by multi-fingered hands
-    date: 2023-03-07
+  - topic: Basic Optimal Control (Max)
+    date: 2025-02-24
     description: ([Slides](./assets/lec/grasping_intro.pdf)) (Boardwork) (Video)  
-  - topic: Grasp Stability, Manipulability, Grasp Planning
-    date: 2023-03-09
+  - topic: The LQR and LQG Problems (Max)
+    date: 2025-02-26
     description: ([Slides](./assets/lec/grasping_intro.pdf)) (Boardwork) (Video) 
 ---
 
-- Discussion 8: Midsemester Review ([Worksheet](./assets/disc/Discussion_8_Midsemester_Review.pdf)) ([Boardwork](./assets/disc/Discussion_8_Midsemester_Review_Boardwork.pdf)) ([Video](https://youtu.be/bMQONBueEgU)) (Solutions)
-- [Homework 4: Computer Vision, SLAM, and Kalman Filtering](./assets/hw/Homework_4__Vision_and_Estimation.pdf) (due 3/21)
+- [Homework 7: Optimal Control](./assets/hw/hw3.zip) (due 2/22) ([PDF](./assets/hw/hw3/Homework_3__Path_Planning.pdf))
 
 <a id="Week9"></a>

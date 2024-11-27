@@ -18,17 +18,13 @@ description: >-
 ---
 
 ## Class Description
-This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics, and control as well as an introduction to path planning, obstacle avoidance, and computer vision. This course will present several areas of robotics and active vision at a much deeper level and informed by current research. Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots, non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include reinforcement learning, locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality. 
+Basic system concepts; state-space and I/O representation. Properties of linear systems, including stability, performance, robustness. Reachability, observability, minimality, state and output-feedback. Brief introduction to optimal control and control of networked and nonlinear systems. Motivating case studies from tech, biology, neuroscience, and medical systems.
 
 ## Prerequisites
-Students are expected to have taken EECS C106A / BioE C106A / ME C106A / EECS C206A or an equivalent course. A strong programming background, knowledge of Python and Matlab, and some coursework in feedback controls (such as EE C128 / ME C134) are also useful. Those who have not taken EECS C106A / BioE C106A / ME C106A / EECS C206A should have a strong programming background, knowledge of Python and Matlab, and exposure to linear algebra, Lagrangian dynamics, and feedback controls at the intermediate level. Please speak to a member of course staff if you are interested in taking the class without the prerequisites.
+Students are expected to have a strong background in linear algebra. Additional background in control systems and real analysis are helpful, but not strictly necessary.
 
 ## Desired Course Outcomes
-The primary objective of this course is to help students develop the academic maturity necessary to understand and conduct research in the field of robotics, vision, and intelligent machines. Along with surveying a breadth of topics relevant to modern robotics, this course also gives students the ability to implement the concepts taught in lecture through exploratory lab-based projects. Students will get practice reading and interpreting research papers through weekly paper presentations. The course culminates in a final project that allows students to conduct independent, original research on a topic of their choosing. Students who complete EECS 106B/206B should:
-- Be proficient at reading, comprehending, critiquing, and reimplementing research papers in the field of robotics.
-- Have experience conducting independent research in model-based robotics, vision and intelligent machines.
-- Have the tools necessary to reason about nonlinear control systems, robotic manipulators, steering systems subject to non-holonomy, path-planning, active vision, image reconstruction, active vision, robotic grasping, and other advances in robotics.
+The primary objective of this course is to develop the fundamental concepts of linear systems theory, within the larger scope of control theory. In particular, concepts such as stability, controllability, and control design will be developed within the domain of linear systems, with a view towards more general settings. Students who complete CDS 131 should have a solid understanding of the core concepts of control theory and how to apply them in the linear setting. 
 
 Please see the homepage for a weekly breakdown of topics.
-
 ---

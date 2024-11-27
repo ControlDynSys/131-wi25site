@@ -1,15 +1,14 @@
 ---
-title: Week 5 - Steering and Controllability
+title: Week 5 - I/O Stability Theory
 days:
-  - topic: Controllability and the Frobenius Theorem
-    date: 2023-02-14
+  - topic: Norms on Signals (Max)
+    date: 2025-02-03
     description:  ([Slides](./assets/lec/steering-nonholo.pdf)) ([Boardwork](./assets/lec/boardwork_2_14.pdf))
-  - topic: Steering, Optimal Control, and MPC
-    date: 2023-02-16
+  - topic: Norms on Systems (Max)
+    date: 2025-02-05
     description:  ([Slides](./assets/lec/steering-nonholo.pdf)) ([Boardwork](./assets/lec/boardwork_2_16.pdf))
 ---
 
-- Discussion 5: Nonholonomic Steering ([Worksheet](./assets/disc/Discussion_5_Kinematic_Constraints.pdf)) ([Boardwork](./assets/disc/217_disc.pdf)) ([Video](https://youtu.be/O4yJjwGmpuk)) ([Solutions](./assets/disc/Discussion_5_Kinematic_Constraints_Solns.pdf))
-- [Project 2: Nonholonomic Control](./assets/proj/proj2.pdf) (due 3/7) ([Slides](https://docs.google.com/presentation/d/1avBGqxuQPeKX5ibOMrM1dPdZcV6WwrXxGKTpFqeHNw0/edit#slide=id.g79a8debd90_1_12))
+- [Homework 4: I/O Stability](./assets/hw/hw3.zip) (due 2/22) ([PDF](./assets/hw/hw3/Homework_3__Path_Planning.pdf))
 
 <a id="Week6"></a>

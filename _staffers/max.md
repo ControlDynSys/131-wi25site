@@ -1,8 +1,8 @@
 ---
-name: Massimiliano de Sa
-role: Content TA
-email: mz.desa@
+name: Massimiliano (Max) de Sa
+role: TA
+email: mdesa@
 photo: assets/staff_pics/massimiliano.jpeg
 ---
 
-Head TA - Content
+TA

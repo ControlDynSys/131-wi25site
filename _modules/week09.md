@@ -1,15 +1,14 @@
 ---
-title: Week 9 - Grasping and Hands
+title: Week 9 - System-Level Synthesis I
 days:
-  - topic: Grasping Control
-    date: 2023-03-14
+  - topic: Robust Control - Problems, Classical Approaches, & SLS (John)
+    date: 2025-03-03
     description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) ([Boardwork](./assets/lec/boardwork_pi.pdf)) (Video) 
-  - topic: Hand Dynamics and Control
-    date: 2023-03-16
+  - topic: The System-Level Parameterization (John)
+    date: 2025-03-05
     description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) (Boardwork) (Video) 
 ---
 
-- Discussion 9: Grasping ([Worksheet](./assets/disc/Discussion_9_Grasping.pdf)) ([Solutions](./assets/disc/Discussion_9_Grasping_Solns.pdf))
-- [Project 3: State Estimation](./assets/proj/proj3.pdf) (due 4/7)
+- [Homework 8: Robust Control & SLS](./assets/hw/hw3.zip) (due 2/22) ([PDF](./assets/hw/hw3/Homework_3__Path_Planning.pdf))
 
 <a id="Week10"></a>

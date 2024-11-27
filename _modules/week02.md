@@ -1,18 +1,14 @@
 ---
-title: Week 2 - Introduction to Basic Lyapunov Stability and Nonlinear Control
+title: Week 2 - Linear Dynamical Systems
 days:
-  - topic: Introduction to Linear Control
-    date: 2023-01-24
+  - topic: Linear Dynamical Systems, Solutions to Linear Dynamical Systems (Max)
+    date: 2025-01-13
     description: ([Slides](./assets/lec/lec3_state_space.pdf)) (Boardwork)  <br /> Reading - MLS 4.5
-  - topic: Lyapunov Control and Intro to Feedback Linearization
-    date: 2023-01-26
+  - topic: Solutions to Time-Invariant Systems (Max)
+    date: 2025-01-15
     description: ([Slides](./assets/lec/lec4_linear_control.pdf)) ([Boardwork](./assets/lec/boardwork_1_26.pdf))  <br /> Reading - MLS 4.4 and Chapter 8
 ---
-
-- Discussion 2: Lyapunov Stability ([Worksheet](./assets/disc/Discussion_2_Lyapunov_Stability.pdf)) ([Boardwork](./assets/disc/125_disc.pdf)) ([Video](https://youtu.be/b15TqzFWOQU)) ([Solutions](./assets/disc/Discussion_2_Lyapunov_Stability_Solns.pdf))
-- [Homework 2: Controls](./assets/hw/hw2.zip) (due 2/7) ([PDF](./assets/hw/hw2/Homework_2__Controls.pdf))
-- [Lab Slides](./assets/proj/lab2.pdf)
-- [Robot Usage Guide](./assets/proj/robot_usage_guide_sp23.pdf)
+- [Homework 1: Linear Dynamical Systems](./assets/hw/hw2.zip) (due 2/7) ([PDF](./assets/hw/hw2/Homework_2__Controls.pdf))
 
 <a id="Week3"></a>
 

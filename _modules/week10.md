@@ -1,13 +1,13 @@
 ---
-title: Week 10 - Finishing Grasping, CBFs
+title: Week 10 - System Level Synthesis II
 days:
-  - topic: Grasping Control
-    date: 2023-03-21
+  - topic: The Internal Structure of SLS (John)
+    date: 2025-03-10
     description: (Slides) (Boardwork) (Video)
-  - topic: CBFs (with Jason Choi)
-    date: 2023-03-23
+  - topic: Distributed Control with SLS (John)
+    date: 2025-03-12
     description: ([Slides](./assets/lec/230323-EECS206B_Guest_Lecture.pdf)) (Boardwork) (Video)
 ---
 
 
-<a id="Week12"></a>
+<a id="Week11"></a>
