@@ -3,12 +3,12 @@ title: Week 9 - System-Level Synthesis I
 days:
   - topic: Robust Control - Problems, Classical Approaches, & SLS (John)
     date: 2025-03-03
-    description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) ([Boardwork](./assets/lec/boardwork_pi.pdf)) (Video) 
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 15
   - topic: The System-Level Parameterization (John)
     date: 2025-03-05
-    description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) (Boardwork) (Video) 
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 16
 ---
 
-- [Homework 8: Robust Control & SLS](./assets/hw/hw3.zip) (due 2/22) ([PDF](./assets/hw/hw3/Homework_3__Path_Planning.pdf))
+- [Homework 8: Robust Control & SLS](./assets/hw/hw3.zip) (due ...)
 
 <a id="Week10"></a>

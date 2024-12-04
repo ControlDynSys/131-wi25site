@@ -3,12 +3,12 @@ title: Week 6 - Controllability & Observability
 days:
   - topic: Controllability (Max)
     date: 2025-02-10
-    description: (Slides) (Boardwork) (Video) 
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 9
   - topic: Observability & Optimality (Max)
     date: 2025-02-12
-    description: ([Slides](./assets/lec/SLAM_Presentation___106B_2023.pdf)) (Boardwork) (Video) 
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 10
 ---
 
-- [Homework 5: Controllability & Observability](./assets/hw/hw3.zip) (due 2/22) ([PDF](./assets/hw/hw3/Homework_3__Path_Planning.pdf))
+- [Homework 5: Controllability & Observability](./assets/hw/hw3.zip) (due ...)
 
 <a id="Week7"></a>

@@ -3,10 +3,10 @@ title: Week 10 - System Level Synthesis II
 days:
   - topic: The Internal Structure of SLS (John)
     date: 2025-03-10
-    description: (Slides) (Boardwork) (Video)
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 17
   - topic: Distributed Control with SLS (John)
     date: 2025-03-12
-    description: ([Slides](./assets/lec/230323-EECS206B_Guest_Lecture.pdf)) (Boardwork) (Video)
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 18
 ---
 
 
