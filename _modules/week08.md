@@ -9,6 +9,6 @@ days:
     description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 14
 ---
 
-- [Homework 7: Optimal Control](./assets/hw/hw3.zip) (due 2/22)
+- [Homework 7: Optimal Control](./assets/hw/hw3.zip) (due ...)
 
 <a id="Week9"></a>
