@@ -22,6 +22,8 @@ Winter 2025 | Instructor: Professor John Doyle
 
 # Course Calendar
 
+LN = Lecture Notes, CD = Callier & Desoer, Linear System Theory, DFT = Doyle, Francis, & Tannenbaum, Feedback Control Theory
+
 <!-- #### All lecture videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1522763/external_tools/78985) -->
 
 {% for module in site.modules %}
