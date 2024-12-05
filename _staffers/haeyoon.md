@@ -1,7 +1,7 @@
 ---
-name: Max de Sa
+name: Haeyoon Han
 role: TA
-email: mdesa@
+email: hhan3@
 photo: assets/staff_pics/massimiliano.jpeg
 ---
 
