@@ -4,7 +4,7 @@ days:
   - topic: Solutions of LTI Systems (Max)
     date: 2025-01-20
     description: ([Boardwork](./assets/lec/boardwork_1_31.pdf)) (Video) <br /> Reading - LN 2.3, CD 2.1.5, 3.2.3
-  - topic: Impulse Response (Max)
+  - topic: Impulse Response & Transforms (Max)
     date: 2025-01-22
     description: ([Boardwork](./assets/lec/boardwork_2_2.pdf)) (Video) <br /> Reading - LN 2.4, CD C.1-D.2
 ---
