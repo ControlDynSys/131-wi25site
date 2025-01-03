@@ -1,14 +1,14 @@
 ---
-title: Week 5 - I/O Stability Theory
+title: Week 5 - Controllability & Observability
 days:
-  - topic: Norms on Signals & Systems (Max)
+  - topic: Controllability & Stabilizability (Max)
     date: 2025-02-03
-    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 7, CD 7.1, DFT 2.1, 2.2
-  - topic: The Feedback Loop & Stability (Max)
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 4.1, CD 8
+  - topic: Observability, Detectability, & Realizations (Max)
     date: 2025-02-05
-    description: ([Boardwork](./assets/lec/boardwork_2_16.pdf)) (Video) <br /> Reading - LN 8, DFT 3.1, 3.2
+    description: ([Boardwork](./assets/lec/boardwork_2_16.pdf)) (Video) <br /> Reading - LN 4.2, 4.3, CD 8
 ---
 
-- [Homework 4: I/O Stability](./assets/hw/hw3.zip) (due ...)
+- [Homework 5: Controllability & Observability](./assets/hw/hw3.zip) (due 2/10)
 
 <a id="Week6"></a>

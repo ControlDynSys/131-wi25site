@@ -1,14 +1,14 @@
 ---
-title: Week 8 - Optimal Control
+title: Week 8 - Basic Robust Control/Slack Week
 days:
-  - topic: Basic Optimal Control (Max)
+  - topic: Basic Robust Control (Max)
     date: 2025-02-24
-    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 13, CD 2.1.7
-  - topic: The LQR and LQG Problems (Max)
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 5.3, DFT 4
+  - topic: Basic Robust Control (Max)
     date: 2025-02-26
-    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 14, CD 10.4, 10d.4
+    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 5.3, DFT 5
 ---
 
-- [Homework 7: Optimal Control](./assets/hw/hw3.zip) (due ...)
+- [Homework 8: Basic Robust Control](./assets/hw/hw3.zip) (due 3/3)
 
 <a id="Week9"></a>
