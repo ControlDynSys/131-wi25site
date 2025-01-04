@@ -13,6 +13,12 @@ schedule:
         start: 1:00 PM
         end: 2:25 PM
         location: Annenberg 314
+      - name: Office Hours
+        class: coh
+        start: 2:25 PM
+        end: 3:00 PM
+        location: Annenberg 314
+      
     
   - name: Tuesday
     events:
@@ -23,6 +29,11 @@ schedule:
         class: lecture
         start: 1:00 PM
         end: 2:25 PM
+        location: Annenberg 314
+      - name: Office Hours
+        class: coh
+        start: 2:25 PM
+        end: 3:00 PM
         location: Annenberg 314
         
   - name: Thursday
