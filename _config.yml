@@ -29,6 +29,8 @@ nav_links:
   Other:
     Canvas:
       - 'https://caltech.instructure.com/'
+    Lecture Notes:
+    - './assets/Lectures_on_Linear_Systems_Theory.pdf'
 # aux_links:
 #   'Kevin Lin':
 #     - 'https://kevinl.info'
