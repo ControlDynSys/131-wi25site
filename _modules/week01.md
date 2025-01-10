@@ -8,6 +8,6 @@ days:
     date: 2025-01-08
     description: ([Boardwork](./assets/boardwork/lecture_2.pdf)) (<a href="https://www.youtube.com/playlist?list=PLU2v_5UVjn7d6-pFEjqvXhI0fE83DfncU">Video</a>) <br /> Reading - LN 2.2, CD 2.1
 ---
-- [Homework 1: Linear Dynamical Systems](./assets/hw/CDS_131_Homework_1.pdf) (due 1/13)
+- [Homework 1: Linear Dynamical Systems](./assets/hw/CDS_131_Homework_1.pdf) (due 1/20, extended due to wildfires)
 
 <a id="Week2"></a>
