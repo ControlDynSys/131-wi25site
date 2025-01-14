@@ -8,7 +8,7 @@ days:
     date: 2025-01-15
     description: ([Boardwork](./assets/lec/boardwork_1_26.pdf)) (Video) <br /> Reading - LN 2.4, CD Appendix C, D
 ---
-- [Homework 2: LTI and I/O Systems](./assets/hw/CDS_131_Homework_1.pdf) (due 1/21, extended due to holiday)
+- [Homework 2: LTI and I/O Systems](./assets/hw/CDS_131_Homework_2.pdf) (due 1/21, extended due to holiday)
 
 <a id="Week3"></a>
 
