@@ -9,6 +9,6 @@ days:
     description:  ([Boardwork](./assets/lec/boardwork_2_9.pdf)) (Video)  <br /> Reading - LN 3.3, DFT 2.1, 2.2
 ---
 
-- [Homework 4: Lyapunov & I/O Stability](./assets/hw/hw3.zip) (due 2/3)
+- [Homework 4: Lyapunov & I/O Stability](./assets/hw/CDS_131_Homework_4.pdf) (due 2/3)
 
 <a id="Week5"></a>
