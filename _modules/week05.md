@@ -9,6 +9,6 @@ days:
     description: ([Boardwork](./assets/lec/boardwork_2_16.pdf)) (Video) <br /> Reading - LN 4.2, 4.3, CD 8
 ---
 
-- [Homework 5: Controllability & Observability](./assets/hw/hw3.zip) (due 2/10)
+- [Homework 5: Controllability & Observability](./assets/hw/CDS_131_Homework_5.pdf) (due 2/10)
 
 <a id="Week6"></a>
