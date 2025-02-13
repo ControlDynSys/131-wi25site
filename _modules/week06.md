@@ -3,7 +3,7 @@ title: Week 6 - Linear Control Design
 days:
   - topic: State & Output Feedback (Max)
     date: 2025-02-10
-    description: ([Boardwork](./assets/boardwork/lecture_10.pdf)) (<a href="https://www.youtube.com/watch?v=Yb2k7NzhV6A&list=PLU2v_5UVjn7d6-pFEjqvXhI0fE83DfncU&index=14">Video</a>) <br /> Reading - LN 5.1
+    description: ([Boardwork](./assets/boardwork/lecture_10.pdf)) (<a href="https://www.youtube.com/watch?v=4FTLvFv3SX8&list=PLU2v_5UVjn7d6-pFEjqvXhI0fE83DfncU&index=14">Video</a>) <br /> Reading - LN 5.1
   - topic: Optimal Control & Dynamic Programming (Max)
     date: 2025-02-12
     description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 5.2
