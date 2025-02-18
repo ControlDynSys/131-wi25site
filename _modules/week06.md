@@ -9,6 +9,6 @@ days:
     description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 5.2
 ---
 
-- [Homework 6: State & Output Feedback](./assets/hw/CDS_131_Homework_6.pdf) (due 2/18, extended due to holiday)
+- [Homework 6: State & Output Feedback](./assets/hw/CDS_131_Homework_6.pdf) (due 2/19, extended due to holiday)
 
 <a id="Week7"></a>
