@@ -6,7 +6,7 @@ days:
     description: Reading - None!
   - topic: The LQR Problem (Max)
     date: 2025-02-19
-    description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 5.3
+    description: ([Boardwork](./assets/boardwork/lecture_12.pdf)) (<a href="https://www.youtube.com/watch?v=ay5zYwKUplg&list=PLU2v_5UVjn7d6-pFEjqvXhI0fE83DfncU&index=16">Video</a>) <br /> Reading - LN 5.3
 ---
 
 - [Homework 7: Linear Optimal Control](./assets/hw/hw3.zip) (due 2/26)
