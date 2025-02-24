@@ -9,7 +9,7 @@ days:
     description: ([Boardwork](./assets/boardwork/lecture_12.pdf)) (<a href="https://www.youtube.com/watch?v=ay5zYwKUplg&list=PLU2v_5UVjn7d6-pFEjqvXhI0fE83DfncU&index=16">Video</a>) <br /> Reading - LN 5.3
 ---
 
-- [Homework 7: Linear Optimal Control](./assets/hw/hw3.zip) (due 2/26)
+- [Homework 7: Linear Optimal Control](./assets/hw/CDS_131_Homework_7.pdf) (due 2/26)
 
 
 <a id="Week8"></a>
