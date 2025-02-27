@@ -1,5 +1,5 @@
 ---
-title: Week 9 - System-Level Synthesis I
+title: Week 9 - System Level Synthesis I
 days:
   - topic: Robust Control - Problems, Classical Approaches, & SLS (Lauren)
     date: 2025-03-03
@@ -9,6 +9,6 @@ days:
     description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 6.1, [ADLM 2, 3](https://arxiv.org/pdf/1904.01634)
 ---
 
-- [Homework 8: Robust Control & SLS](./assets/hw/hw3.zip) (due 3/12, last day of classes)
+- [Homework 8: System Level Synthesis](./assets/hw/hw3.zip) (due 3/14)
 
 <a id="Week10"></a>

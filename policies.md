@@ -36,5 +36,5 @@ Homeworks will be assigned weekly and turned in on Canvas. Collaboration on home
 |Homework 5: Controllability & Observability (Due 2/10)|
 |Homework 6: State & Output Feedback (Due 2/18)|
 |Homework 7: Linear Optimal Control (Due 2/24)|
-|Homework 8: Basic Robust Control (Due 3/3)|
-|Homework 9: Robust Control & SLS (Due 3/12)|
+|Homework 8: Feedback Systems & Internal Stability (Due 3/5)|
+|Homework 9: System Level Synthesis (Due 3/14)|
