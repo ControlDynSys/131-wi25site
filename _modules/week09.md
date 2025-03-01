@@ -9,6 +9,6 @@ days:
     description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 6.1, [ADLM 2, 3](https://arxiv.org/pdf/1904.01634)
 ---
 
-- [Homework 8: System Level Synthesis](./assets/hw/hw3.zip) (due 3/14)
+- [Homework 9: System Level Synthesis](./assets/hw/hw3.zip) (due 3/14)
 
 <a id="Week10"></a>
