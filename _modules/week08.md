@@ -9,6 +9,6 @@ days:
     description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 5.5, DFT 4, 5
 ---
 
-- [Homework 8: Feedback Systems & Internal Stability](./assets/hw/hw3.zip) (due 3/5)
+- [Homework 8: Feedback Systems & Internal Stability](./assets/hw/CDS_131_Homework_5.pdf) (due 3/5)
 
 <a id="Week9"></a>
