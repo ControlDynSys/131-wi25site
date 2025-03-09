@@ -1,7 +1,7 @@
 ---
-title: Week 10 - System Level Synthesis II
+title: Week 10 - System-Level Synthesis II
 days:
-  - topic: The Internal Structure of SLS (Lauren)
+  - topic: Distributed Control with SLS (Lauren)
     date: 2025-03-10
     description: ([Boardwork](./assets/lec/boardwork_2_14.pdf)) (Video) <br /> Reading - LN 6.2, [ADLM 3](https://arxiv.org/pdf/1904.01634)
   - topic: Distributed Control with SLS (Lauren)
